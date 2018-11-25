@@ -1,0 +1,122 @@
+.navbar {
+  background-color: white;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+.media-object {
+  height: 200px;
+  width: 330px;
+  margin-left: 40px;
+}
+.location-content {
+  background-color: white;
+  padding-top: 40px;
+  padding-left: 20px;
+    color: #A9A9A9;
+    font-size: 18px;
+}
+
+#media-heading {
+    color: 	#5F9EA0;
+    font-size: 40px;
+}
+
+.media-heading {
+    color: 	#5F9EA0;
+}
+
+.biketitle {
+  background-image: url("Cycle.jpg");
+  background-repeat: repeat-x;
+  background-size: 300px 200px;
+  background-color: grey;
+  padding: 50px;
+  font-size: 90px;
+  font-family: monospace;
+  color:white;
+}
+
+.traintitle {
+  background-image: url("pictures-Train section/traintopnew.jpg");
+  background-repeat: repeat-x;
+  background-size: 300px 200px;
+  background-color: grey;
+  padding: 50px;
+  font-size: 90px;
+  font-family: monospace;
+  color:white;
+}
+
+.walktitle {
+  background-image: url("walk5.png");
+  background-repeat: repeat-x;
+  background-size: 300px 200px;
+  background-color: grey;
+  padding: 50px;
+  font-size: 90px;
+  font-family: monospace;
+  color:white;
+}
+
+.navbar li {
+  padding-right:50px;
+}
+
+
+#coverpage {
+  margin-top: 55px;
+  background-image: url('cambridge-backs-1.jpg');
+  /* height: 400px; */
+  /*background-position: 100% 25%; */
+  background-size: cover;
+
+}
+
+#Escape {
+    padding-bottom: 30%;
+}
+
+
+.display-3 {
+  color: white;
+  font-size: 40pt;
+  padding-bottom: 30px;
+}
+
+/*
+.navbar li {
+  padding-right:50px;
+}
+
+.navbar a {
+  font-size: 20pt;
+  background-color: white;
+  font-family: monospace;
+}
+
+.media-object {
+  height: 200px;
+  width: relative;
+  margin-left: 40px;
+}
+.location-content {
+  background-color: #E5E4E2;
+  padding-top: 40px;
+  padding-left: 20px
+}
+.biketitle {
+  background-image: url("biketop.jpg");
+  background-color: grey;
+}
+
+
+#bike_title{
+  color: white;
+padding: 40px;
+position: right;
+font-size: 30px;
+font-family: monospace;
+
+}
+*/
